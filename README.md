@@ -2,18 +2,16 @@
 
 ### Hi, I'm Kira 🧚‍♀️
 
-I'm a web developer with focus on frontend design that enjoys learning and applying new skills. I'm currently studying and rebuilding projects in       React JS with an emphasis on pure CSS styling, ARIA content, and responsive layouts. You can find me reading horror novels, binging an anime, or roller skating when I'm not ciphering code. 
+I'm a software developer with a focus on frontend design that enjoys learning and applying new skills. I'm currently studying and building projects in React JS with an emphasis on pure CSS styling, ARIA content, and responsive layouts. You can find me reading horror novels, binging an anime, or roller skating when I'm not ciphering code. 
 
 ---
 
-👩🏻‍💻 **Crafting:** Cipher Blog[2.0]
+👩🏻‍💻 **Crafting:** Personal Site
 
-📚 **Studying:** ReactJS & Typescript
+📚 **Studying:** ReactJS & MobX
 
 ⚙️ **Languages:** HTML, CSS, Java, JavaScript
 
 🛠️ **Tools:** Git, Node.js, ReactJS, Framer Motion
 
 📮 **Ping Me:** kmaalig@gmail.com or Twitter [@cyphrsylph](https://twitter.com/cyphrsylph)
-
-✨ **Currently seeking employment**
