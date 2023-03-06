@@ -6,7 +6,7 @@ I'm a software developer with a focus on frontend design that enjoys learning an
 
 ---
 
-👩🏻‍💻 **Crafting:** Personal Site
+👩🏻‍💻 **Crafting:** Landing Page
 
 📚 **Studying:** ReactJS & MobX
 
@@ -14,4 +14,4 @@ I'm a software developer with a focus on frontend design that enjoys learning an
 
 🛠️ **Tools:** Git, Node.js, ReactJS, Framer Motion
 
-📮 **Ping Me:** kmaalig@gmail.com or Twitter [@cyphrsylph](https://twitter.com/cyphrsylph)
+📮 **Ping Me:** cyphrsylph@gmail.com or Twitter [@cyphrsylph](https://twitter.com/cyphrsylph)
