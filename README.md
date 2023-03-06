@@ -8,7 +8,7 @@ I'm a software developer with a focus on frontend design that enjoys learning an
 
 👩🏻‍💻 **Crafting:** Landing Page
 
-📚 **Studying:** ReactJS & MobX
+📚 **Studying:** ReactJS & React Testing Library
 
 ⚙️ **Languages:** HTML, CSS, Java, JavaScript
 
